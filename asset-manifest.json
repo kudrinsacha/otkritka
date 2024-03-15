@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/otkritka/static/css/main.d9f1f7e3.css",
-    "main.js": "/otkritka/static/js/main.a4907229.js",
+    "main.css": "/otkritka/static/css/main.23dc0c52.css",
+    "main.js": "/otkritka/static/js/main.293dadd8.js",
     "static/js/453.f682d6b1.chunk.js": "/otkritka/static/js/453.f682d6b1.chunk.js",
     "static/media/saul-goodman3d-dima.gif": "/otkritka/static/media/saul-goodman3d-dima.d1e1bb6c3b4142ceb8ae.gif",
     "static/media/will-smith-hitch.gif": "/otkritka/static/media/will-smith-hitch.3df1ce58957d19507a8d.gif",
@@ -10,12 +10,12 @@
     "static/media/ofont.ru_Rostov.ttf": "/otkritka/static/media/ofont.ru_Rostov.b50d1fb497eaaf57c79f.ttf",
     "static/media/bg.png": "/otkritka/static/media/bg.64c31b88831ee303c4a4.png",
     "index.html": "/otkritka/index.html",
-    "main.d9f1f7e3.css.map": "/otkritka/static/css/main.d9f1f7e3.css.map",
-    "main.a4907229.js.map": "/otkritka/static/js/main.a4907229.js.map",
+    "main.23dc0c52.css.map": "/otkritka/static/css/main.23dc0c52.css.map",
+    "main.293dadd8.js.map": "/otkritka/static/js/main.293dadd8.js.map",
     "453.f682d6b1.chunk.js.map": "/otkritka/static/js/453.f682d6b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9f1f7e3.css",
-    "static/js/main.a4907229.js"
+    "static/css/main.23dc0c52.css",
+    "static/js/main.293dadd8.js"
   ]
 }
