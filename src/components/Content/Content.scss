@@ -36,17 +36,17 @@
   display: none;
 }
 
-.css-1x51dt5-MuiInputBase-input-MuiInput-input, .css-mnn31 { //style mui input
+.MuiInputBase-input { //style mui input
   font-family: "Rostov", sans-serif !important;
   color: #fff !important;
   text-transform: uppercase !important;
 }
 
-.css-bz5ng3-MuiInputBase-root-MuiInput-root::after {
+.MuiInputBase-input::after {
   border-bottom: 2px solid #fff !important;
 }
 
-.css-1rwt2y5-MuiButtonBase-root-MuiButton-root { //style mui button
+.MuiButtonBase-root { //style mui button
   font-family: "Rostov", sans-serif !important;
   font-size: 1.1rem !important;
   color: #fff !important;
@@ -54,7 +54,7 @@
   height: 32px !important;
 }
 
-.css-i4bv87-MuiSvgIcon-root { //style mui closeIcon\
+.MuiSvgIcon-root { //style mui closeIcon
   float: right !important;
   color: white !important;
 }
