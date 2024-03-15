@@ -74,6 +74,7 @@ const Content = () => {
         <div className='content'>
             <div className='content-name'>
                 <Input
+                    color='secondary'
                     value={inputValue}
                     placeholder='Введите имя'
                     onChange={(e) => {

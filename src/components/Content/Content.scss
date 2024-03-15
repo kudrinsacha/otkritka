@@ -38,13 +38,13 @@
 
 .MuiInputBase-input { //style mui input
   font-family: "Rostov", sans-serif !important;
-  color: #fff !important;
+  //color: #fff !important;
   text-transform: uppercase !important;
 }
 
-.MuiInputBase-input::after {
-  border-bottom: 2px solid #fff !important;
-}
+//.MuiInputBase-input::after {
+//  border-bottom: 2px solid #fff !important;
+//}
 
 .MuiButtonBase-root { //style mui button
   font-family: "Rostov", sans-serif !important;
