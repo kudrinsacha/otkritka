@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Rostov';
+    src: url("./assets/fonts/ofont.ru_Rostov.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+.App {
+    box-sizing: border-box;
+    background: url("./assets/images/bg.png") no-repeat;
+    width: 100vw;
+    height: 100vh;
+    font-family: "Rostov", sans-serif;
+    text-transform: uppercase;
+}

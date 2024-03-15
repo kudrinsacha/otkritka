@@ -1,0 +1,60 @@
+.content {
+  //display: flex;
+  //justify-content: center;
+}
+
+.content-name {
+  display: flex;
+  justify-content: center;
+  padding-top: 150px;
+}
+
+.content-gif {
+  display: flex;
+  justify-content: center;
+  margin-top: 120px;
+
+  img {
+    width: 350px;
+  }
+}
+
+.modal-text {
+  padding-top: 40px;
+  color: white;
+  text-transform: uppercase;
+  font-family: "Rostov", sans-serif;
+  text-align: center;
+}
+
+.gift {
+  color: aqua;
+  text-decoration: underline;
+}
+
+.gift-hidden {
+  display: none;
+}
+
+.css-1x51dt5-MuiInputBase-input-MuiInput-input, .css-mnn31 { //style mui input
+  font-family: "Rostov", sans-serif !important;
+  color: #fff !important;
+  text-transform: uppercase !important;
+}
+
+.css-bz5ng3-MuiInputBase-root-MuiInput-root::after {
+  border-bottom: 2px solid #fff !important;
+}
+
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root { //style mui button
+  font-family: "Rostov", sans-serif !important;
+  font-size: 1.1rem !important;
+  color: #fff !important;
+  border: 1px solid #fff !important;
+  height: 32px !important;
+}
+
+.css-i4bv87-MuiSvgIcon-root { //style mui closeIcon\
+  float: right !important;
+  color: white !important;
+}
