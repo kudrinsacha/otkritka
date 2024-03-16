@@ -5,6 +5,7 @@ import './Content.scss'
 import getOut from '../../assets/images/will-smith-hitch.gif'
 import writeName from '../../assets/images/harry-potter-tom-riddle.gif'
 import dimas from '../../assets/images/saul-goodman3d-dima.gif'
+import ryan from '../../assets/images/barbie-movie-2023-barbie.gif'
 import katya from '../../assets/images/me-gustas-katya-kitten.gif'
 
 const Content = () => {
@@ -37,13 +38,17 @@ const Content = () => {
             setGif(writeName);
             setText('Какой-то долбаёб написал свое имя и ты напиши')
             handleOpen();
-        } else if (name.toLowerCase() !== 'екатерина' && name.toLowerCase() !== 'катюха' && name.toLowerCase() !== 'катя' && name.toLowerCase() !== 'кейт' && name.toLowerCase() !== 'дима' && name.toLowerCase() !== 'дмитрий' && name.toLowerCase() !== 'димас' && name.toLowerCase() !== 'димон') {
+        } else if (name.toLowerCase() !== 'екатерина' && name.toLowerCase() !== 'катюха' && name.toLowerCase() !== 'катя' && name.toLowerCase() !== 'кейт' && name.toLowerCase() !== 'дима' && name.toLowerCase() !== 'дмитрий' && name.toLowerCase() !== 'димас' && name.toLowerCase() !== 'димон' && name.toLowerCase() !== 'саня' && name.toLowerCase() !== 'саша' && name.toLowerCase() !== 'санек' && name.toLowerCase() !== 'александр') {
             setGif(getOut);
             setText('Тебе тут не рады');
             handleOpen();
         } else if (name.toLowerCase() === 'дима' || name.toLowerCase() === 'дмитрий' || name.toLowerCase() === 'димас' || name.toLowerCase() === 'димон'){
             setGif(dimas);
             setText('здаров димас позови сюда свою женщину');
+            handleOpen();
+        } else if (name.toLowerCase() === 'саня' || name.toLowerCase() === 'саша' || name.toLowerCase() === 'санек' || name.toLowerCase() === 'александр') {
+            setGif(ryan);
+            setText('балуешься ?)')
             handleOpen();
         } else {
             setGif(katya);
