@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/otkritka/static/css/main.b045d001.css",
-    "main.js": "/otkritka/static/js/main.293dadd8.js",
+    "main.js": "/otkritka/static/js/main.5fee7afd.js",
     "static/js/453.f682d6b1.chunk.js": "/otkritka/static/js/453.f682d6b1.chunk.js",
     "static/media/saul-goodman3d-dima.gif": "/otkritka/static/media/saul-goodman3d-dima.d1e1bb6c3b4142ceb8ae.gif",
+    "static/media/barbie-movie-2023-barbie.gif": "/otkritka/static/media/barbie-movie-2023-barbie.ce1fc73ffee3b45a9196.gif",
     "static/media/will-smith-hitch.gif": "/otkritka/static/media/will-smith-hitch.3df1ce58957d19507a8d.gif",
     "static/media/me-gustas-katya-kitten.gif": "/otkritka/static/media/me-gustas-katya-kitten.ed6301ab0a647ac9f97a.gif",
     "static/media/harry-potter-tom-riddle.gif": "/otkritka/static/media/harry-potter-tom-riddle.638814161cd628908975.gif",
@@ -11,11 +12,11 @@
     "static/media/bg.png": "/otkritka/static/media/bg.64c31b88831ee303c4a4.png",
     "index.html": "/otkritka/index.html",
     "main.b045d001.css.map": "/otkritka/static/css/main.b045d001.css.map",
-    "main.293dadd8.js.map": "/otkritka/static/js/main.293dadd8.js.map",
+    "main.5fee7afd.js.map": "/otkritka/static/js/main.5fee7afd.js.map",
     "453.f682d6b1.chunk.js.map": "/otkritka/static/js/453.f682d6b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b045d001.css",
-    "static/js/main.293dadd8.js"
+    "static/js/main.5fee7afd.js"
   ]
 }
