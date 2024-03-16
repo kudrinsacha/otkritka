@@ -59,7 +59,7 @@ const Content = () => {
     }
 
     function downloadGift() {
-        fetch('downloadCodeWord.pdf').then((response) => {
+        fetch('prikol.pdf').then((response) => {
             response.blob().then((blob) => {
 
                 // Creating new object of PDF file
